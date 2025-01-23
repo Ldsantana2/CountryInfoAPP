@@ -1,6 +1,0 @@
-{
-    "extends": ["next", "prettier"],
-    "rules": {
-      "prettier/prettier": ["error", { "endOfLine": "auto" }]
-    }
-  }
